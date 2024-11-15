@@ -3,6 +3,14 @@
 * [Личный кабинет](https://spb.hackathon-t1.ru/todo) (у каждого свой)
 * [Слайды с описанием задачи](https://docs.google.com/presentation/d/1Ixn7mnErgfvu0Kuxk7OUIWIuMWP2KfNRwGEyVObvuwI/edit#slide=id.g3141d0e0588_0_411)
 
+## Технологический стек
+* Java
+* Фреймворк [Jmix](https://www.jmix.ru)
+* PostgreSQL
+* Docker
+* (?) Python
+* (?) Pandas
+
 ## ToDo
 ### Next Strep (до утра субботы)
  - [ ] РГ Развернуть среду (Docker, PostgreSQL,…)

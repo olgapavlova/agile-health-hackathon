@@ -19,6 +19,14 @@
 - Выполните команду сборки:
 
 ```shell
+# Очистка проекта
+# Linux или macOS
+./agile-health/gradlew clean --project-dir ./agile-health
+
+# Windows
+./agile-health/gradlew.bat clean --project-dir ./agile-health
+
+# Сборка проекта
 # linux or mac os
 ./agile-health/gradlew -Pvaadin.productionMode=true bootJar --project-dir ./agile-health
 

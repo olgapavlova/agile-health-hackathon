@@ -27,6 +27,14 @@ import javax.sql.DataSource;
 @EnableJmixDataRepositories
 public class AgileHealthApplication implements AppShellConfigurator {
 
+    static {
+        try {
+            Class.forName("org.postgresql.Driver");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
     @Autowired
     private Environment environment;
 

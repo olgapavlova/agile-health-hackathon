@@ -4,7 +4,7 @@
 * **Серый** #999999 — второстепенные статусы
 
 ```mermaid
-flowchart LR
+flowchart TB
 
 analysis["Анализ"]
 fixing["Исправление"]
@@ -16,6 +16,7 @@ created["Создано"]
 done["Выполнено"]
 
 subgraph Второстепенные статусы
+direction LR
 ready2dev["Готово к разработке"]
 declined["Отклонен исполнителем"]
 wait["В ожидании"]
@@ -28,6 +29,7 @@ st_done["СТ Завершено"]
 end
 
 subgraph Популярные статусы
+direction TB
 created:::important ==> inProgress
 inProgress:::important ==> closed
 fixing:::important ==> testing

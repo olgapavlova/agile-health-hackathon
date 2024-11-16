@@ -1,18 +1,5 @@
-# Задачи, планы, checkpoint'ы и справочное 
-* [Расписание хакатона](https://impulse.t1.ru/hackathons/saint_petersburg_2024)
-* [Личный кабинет](https://spb.hackathon-t1.ru/todo) (у каждого свой)
-* [Слайды с описанием задачи](https://docs.google.com/presentation/d/1Ixn7mnErgfvu0Kuxk7OUIWIuMWP2KfNRwGEyVObvuwI/edit#slide=id.g3141d0e0588_0_411)
-
-## Технологический стек
-* Java
-* Фреймворк [Jmix](https://www.jmix.ru)
-* PostgreSQL
-* Docker
-* Python
-* (?) Pandas
-
-## ToDo
-### До утра субботы
+# ToDo
+## До утра субботы
  - [x] РГ Развернуть среду (Docker, PostgreSQL,…)
  - [x] РГ Собрать скелет системы
  - [ ] ЛН Рассчитать метрики по [ТЗ](https://docs.google.com/presentation/d/1Ixn7mnErgfvu0Kuxk7OUIWIuMWP2KfNRwGEyVObvuwI/edit#slide=id.g3141d0e0588_0_411) (хоть в Excel)
@@ -40,7 +27,7 @@
 > _Подключаться в формате «Название команды | Фамилия Имя»_
 
 
-### Полировка
+## Полировка
  - [ ] Demo-видео продукта
  - [ ] ReadMe для установки
  - [ ] Публичный код, готовый к развёртыванию

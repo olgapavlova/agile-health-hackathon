@@ -20,10 +20,10 @@
 
 ```shell
 # linux or mac os
-./agile-health/gradlew bootJar --project-dir ./agile-health
+./agile-health/gradlew -Pvaadin.productionMode=true bootJar --project-dir ./agile-health
 
 # windows 
-./agile-health/gradlew.bat bootJar --project-dir ./agile-health
+./agile-health/gradlew.bat -Pvaadin.productionMode=true bootJar --project-dir ./agile-health
 ```
 
 - Установите Docker Desktop с [официального сайта](https://www.docker.com/products/docker-desktop/)

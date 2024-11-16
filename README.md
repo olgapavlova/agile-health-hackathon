@@ -11,6 +11,31 @@
 * (?) Python
 * (?) Pandas
 
+### Запуск проекта
+
+- Клонируйте репозиторий с GitHub
+
+- Скачайте и установите JDK 17 для своей ОС на сайте Eclipse [по этой ссылке](https://adoptium.net/temurin/releases/)
+
+- Выполните команду сборки:
+
+```shell
+# linux or mac os
+./agile-health/gradlew bootJar --project-dir ./agile-health
+
+# windows 
+./agile-health/gradlew.bat bootJar --project-dir ./agile-health
+```
+
+- Установите Docker Desktop с [официального сайта](https://www.docker.com/products/docker-desktop/)
+
+- Запустите все контейнеры docker-compose следующей командой:
+```shell
+docker compose up -d
+```
+
+- Чтобы войти в систему "Agile Health" перейдите по ссылке [http://localhost:8080](http://localhost:8080). Логин: "admin", пароль: "admin".
+
 ## ToDo
 ### Next Strep (до утра субботы)
  - [ ] РГ Развернуть среду (Docker, PostgreSQL,…)

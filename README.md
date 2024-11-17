@@ -6,6 +6,8 @@
 > [!IMPORTANT]
 > 
 > [Жизненный цикл задачи в производстве](WORKFLOW.md) — SQL, Mermaid
+>
+> [Прототипы интерфейсов](https://www.figma.com/design/VQIYIarzhcXvtUiAdFKKx0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B0?node-id=10-2056&t=j7xXnCip9Awt0uLm-1) — Figma
 > 
 > [Анализ сырых данных](https://docs.google.com/spreadsheets/d/1gX-mf5EDaHACdu8xtTitSlyVT46qvEMSg2PDAs7P_f8/edit?usp=sharing) — Google Sheets
 > 
@@ -14,7 +16,7 @@
 > 
 
 
-**Технологический стек:** SQL • [Mermaid](http://mermaid.js.org/) • [Google Sheets](https://docs.google.com/spreadsheets/u/0/) • [Python](https://www.python.org/) • [Pandas](https://pandas.pydata.org/) • [Matplotlib](https://matplotlib.org) • [Jupyter Notebook](https://jupyter.org) • [Anaconda](https://www.anaconda.com)
+**Технологический стек:** [SQL](https://ru.wikipedia.org/wiki/SQL) • [Mermaid](http://mermaid.js.org/) • [Figma](https://www.figma.com/) • [Google Sheets](https://docs.google.com/spreadsheets/u/0/) • [Python](https://www.python.org/) • [Pandas](https://pandas.pydata.org/) • [Matplotlib](https://matplotlib.org) • [Jupyter Notebook](https://jupyter.org) • [Anaconda](https://www.anaconda.com)
 
 
 * [Расписание хакатона](https://impulse.t1.ru/hackathons/saint_petersburg_2024)

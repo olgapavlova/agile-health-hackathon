@@ -1,7 +1,9 @@
 > [!IMPORTANT]
 > 
 > [Жизненный цикл задачи в производстве](WORKFLOW.md) — SQL, Mermaid
+> 
 > [Анализ сырых данных](https://docs.google.com/spreadsheets/d/1gX-mf5EDaHACdu8xtTitSlyVT46qvEMSg2PDAs7P_f8/edit?usp=sharing) — Google Sheets
+> 
 > [Подготовка данных](jupyter/Prepare.ipynb) и **[расчёты с визуализацией](jupyter/Metrics.ipynb)** — Python, Pandas, Matplotlib, Jupyter Notebook
 >
 > 
